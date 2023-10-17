@@ -140,6 +140,10 @@ On the Login page, display errors when:
 2. Your github server-side repository
 3. Your live website link
 
+### Deadline
+
+এই এসাইনমেন্ট মুলত তিন দিনের এসাইনমেন্ট। অর্থাৎ আগামী 20 October, রাত ১১.৫৯ এর মধ্যে তোমার এসাইনমেন্ট জমা দিলে তোমার সর্বোচ্চ মার্কস ৬০ মার্কস (৫০ এসাইনমেন্ট এর মার্কস + ১০ মার্কস বোনাস) । আর তুমি যদি এসাইনমেন্ট October 21 তারিখ সন্ধ্যা ৫.৫৯ এর মধ্যে সাবমিট করে তাহলে সর্বোচ্চ মার্কস ৫০। এর পরে সাবমিট করলে তোমার সর্বোচ্চ মার্কস ৩০।  
+
 ### :trophy: No Pain, No Gain:
 
 - The most beautiful moments in life comes after going through hardships and challenges.
