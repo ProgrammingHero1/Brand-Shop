@@ -3,7 +3,7 @@
 Our company is focused on building websites based on renowned brands. Currently, we are in search of a MERN Stack developer to develop our upcoming brand-new website.
 
 :triangular_flag_on_post: Update in requirements
-  - Check requirements 5,6,7
+  - Check requirements 5,6,11
   - You can load brand names in home page from database / you can create fakedata & load from json. 
 
 ### 🧮 Website Theme:
